@@ -2,7 +2,7 @@
 
 Aplikasi enkripsi dan dekripsi file menggunakan **AES-256 mode CBC** berbasis Python.
 
-> **UTS Keamanan Sistem Informasi**  
+> **UTS Kriptografi**  
 > Nama  : Sultan Alwi Maulana H  
 > NIM   : 105841103922  
 
