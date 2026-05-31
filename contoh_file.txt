@@ -1,0 +1,10 @@
+Nama  : SULTAN ALWI MAULANA H
+NIM   : 105841103922
+
+Ini adalah file contoh yang akan dienkripsi
+menggunakan algoritma AES-256 mode CBC.
+
+Data sensitif:
+  - Nilai UTS   : 95
+  - Nilai UAS   : 90
+  - IPK         : 3.90
